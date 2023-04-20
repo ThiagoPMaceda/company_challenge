@@ -1,11 +1,6 @@
 # CompanyChallenge
 This repository was a code challenge designed as a take home for a company and is a Rest API with a CRUD and authentication.
 
-## Entity relationship table
-
-Below we have an image of the database entities data modeling
-![Database relationship](database-relationship.png)
-
 ## Endpoints:
 
 All Endpoints with their answers are available at this link [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/16360675-a7aaed84-b98b-4495-b6f2-541d8e2add7f?action=collection%2Ffork&collection-url=entityId%3D16360675-a7aaed84-b98b-4495-b6f2-541d8e2add7f%26entityType%3Dcollection%26workspaceId%3D576bcf45-7ce8-43b4-a76b-5a929ca6a986) where you can use Postman to view the routes and the possible responses.
